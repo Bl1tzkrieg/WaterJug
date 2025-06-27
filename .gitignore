@@ -1,0 +1,17 @@
+# .NET and Visual Studio defaults
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.db-shm
+*.db-wal
+*.db-journal
+
+# Logs
+*.log
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+.DS_Store

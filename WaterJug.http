@@ -1,0 +1,11 @@
+@WaterJug_HostAddress = http://localhost:5116
+
+POST {{WaterJug_HostAddress}}/waterjug/solve
+Content-Type: application/json
+Accept: application/json
+
+{
+  "jug1Capacity": 5,
+  "jug2Capacity": 3,
+  "target": 4
+}
