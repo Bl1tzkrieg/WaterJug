@@ -89,14 +89,18 @@ Replace `<port>` with the port number shown in your console (usually 5000 or 500
 
 ---
 
-## Building
+## Getting Started
 
-- Clone the repo
-- Open the solution (if using visual studio)
-- Execute the following commands in the console:
+Clone the repository and navigate to the project folder. If you use Visual Studio, open the solution file.
+Run the following commands in your terminal:
+
+```bash
     dotnet restore     # Restores NuGet packages
     dotnet build       # Compiles the project
     dotnet run         # Starts the API
+```
+Note: The API uses a local SQLite database file. No additional database setup or migrations are required.
+
 
 ###
 
