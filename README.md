@@ -42,7 +42,7 @@ Once the application is running, navigate to:
 http://localhost:<port>/swagger
 ```
 
-Replace `<port>` with the port number shown in your console (usually 5000 or 5001) to access the interactive Swagger UI where all endpoints are listed and testable.
+Replace `<port>` with the port number shown in your console (usually 5000, 5001 or 7206) to access the interactive Swagger UI where all endpoints are listed and testable.
 
 
 ### `POST /api/waterjugChallenge`
