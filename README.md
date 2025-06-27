@@ -34,8 +34,6 @@ This API solves the **Water Jug Challenge** by finding the shortest sequence of 
 
 ## API Endpoints
 
-# API Documentation via Swagger
-
 The API endpoints are documented and can be tested using Swagger.
 
 Once the application is running, navigate to:
